@@ -881,7 +881,5 @@ def ___random_m3___(ids,passlist):
         time.sleep(10)
     except Exception as e:
         pass
-if __name__=="__main__":
-    os.system('clear')
-    os.system('git pull')
-mahadi()
+
+main()
